@@ -592,7 +592,6 @@ def split_bas_on_comparison(combinations):
             
 
 def evaluate(raw):
-<<<<<<< HEAD
     evaluation=False
     startTime=time.time()
     oneQuestion=False
